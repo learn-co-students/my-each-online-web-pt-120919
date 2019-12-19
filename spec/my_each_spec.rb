@@ -98,3 +98,19 @@ describe "my_each" do
     end
   end
 end
+
+def my_each(array) # put argument(s) here
+  i=0
+
+ while i < array.length
+   yield array[i]
+  i += 1
+ end
+ array
+
+end
+
+def my_each
+  while
+  
+end
