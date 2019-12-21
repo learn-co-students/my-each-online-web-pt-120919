@@ -8,4 +8,3 @@ def my_each(array)
  p array
 end
  
- #my_each(array) {p "#{i} plus some words"}
